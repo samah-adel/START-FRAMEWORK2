@@ -4,10 +4,11 @@
 
 
 
-.bg{
+.bg {
     background-color: #2C3E50;
 }
 
-.bgBasic{
+.bgBasic {
     background-color: #1ABC9C;
+    border-radius: 10px;
 }
